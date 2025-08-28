@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🏁  Inicie em 2020.<br>🎓 Formado na SPTECH School em Análise e Desenvolvimento De Sistemas 2023<br>🎓 Técnico SENAI Santa Cecília Análise e Desenvolvimento De Sistemas 2020<br><p align="left">
+<p align="left">🏁  Iniciei em 2020.<br>🎓 Formado na SPTECH School em Análise e Desenvolvimento De Sistemas 2023<br>🎓 Técnico SENAI Santa Cecília Análise e Desenvolvimento De Sistemas 2020<br><p align="left">
 
 ###
 
